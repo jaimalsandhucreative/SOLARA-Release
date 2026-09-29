@@ -1,0 +1,168 @@
+========================================
+  SOLARA - Installation Guide
+========================================
+
+This guide walks you through the entire process
+from having the setup.exe to running SOLARA on
+your Windows PC.
+
+
+========================================
+  STEP 1: Download the Installer
+========================================
+
+1. Obtain the file "solara_0.2.0_x64-setup.exe"
+   from the person or source that shared SOLARA
+   with you.
+
+2. Save it somewhere easy to find, like your
+   Desktop or Downloads folder.
+
+
+========================================
+  STEP 2: Run the Installer
+========================================
+
+1. Double-click "solara_0.2.0_x64-setup.exe"
+
+2. If Windows shows a blue dialog saying
+   "Windows protected your PC":
+   - Click "More info"
+   - Click "Run anyway"
+   (This is normal for apps not from the Microsoft Store)
+
+3. The installer will open. Follow the prompts:
+   - Accept the license agreement
+   - Choose an install location (or leave default)
+   - Click "Install"
+
+4. Wait for the installation to finish.
+   It usually takes 10-30 seconds.
+
+5. Click "Finish" when done.
+
+
+========================================
+  STEP 3: Find and Launch SOLARA
+========================================
+
+After installation, SOLARA is available in:
+
+  - Start Menu: Click the Windows Start button,
+    type "SOLARA", and press Enter.
+
+  - Desktop: Look for a SOLARA shortcut icon
+    on your desktop.
+
+  - Install folder: The main program file is:
+    C:\Program Files\SOLARA\SOLARA.exe
+    (or wherever you chose to install it)
+
+
+========================================
+  STEP 4: First Launch Setup
+========================================
+
+1. Open SOLARA using any method above.
+
+2. The app will open with a dark, atmospheric
+   interface. You will see:
+   - A sidebar on the left
+   - A welcome screen in the middle
+   - A message input box at the bottom
+
+3. Before you can chat, you need to add your
+   OpenRouter API key:
+
+   a. Click the gear icon (Settings) in the
+      bottom-left of the sidebar.
+
+   b. Click the "API" tab.
+
+   c. In the "OpenRouter API key" field, paste
+      your API key. You can get one at:
+      https://openrouter.ai/keys
+
+   d. Click "Save key"
+      (The key is stored securely in Windows
+      Credential Manager and never shown again)
+
+   e. Click "Test connection" to verify it works.
+
+   f. Close settings (click X or press Escape).
+
+
+========================================
+  STEP 5: Start Using SOLARA
+========================================
+
+Now you are ready to use SOLARA!
+
+  - Type a message and press Enter to send it.
+  - Press Shift+Enter for a new line.
+  - Click "New chat" to start a fresh conversation.
+  - Use the Search toggle for live web search.
+  - Use the Think toggle for deeper reasoning.
+  - Use the Image toggle to generate images.
+  - Attach files with the paperclip button or
+    by dragging and dropping them.
+
+
+
+========================================
+	NOTE
+========================================
+
+Make sure, If you want free AI, Go to openrouter and search 'free' or try to find a free model. search, example - Deepseek, and a model, which will look something like this
+Deepseek [Model Name]				FREE
+or something like that, that is the AI that is free and get that model's API key. if, while chatting, solara throws a error like no tokens and stuff,(MIKE!I DONT THINKT HAT WILL HAPPEN!)
+I have put the code so that it uses any other available free model
+but if it throws that error, lil' kid, ya wasted all your tokens💀 So just wait' a while
+
+
+========================================
+  TROUBLESHOOTING
+========================================
+
+Problem: "Windows protected your PC"
+Solution: Click "More info" then "Run anyway"
+
+Problem: "Missing DLL" or "VCRUNTIME140.dll not found"
+Solution: Download and install the Visual C++
+  Redistributable from:
+  https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+Problem: SOLARA won't start
+Solution: Try reinstalling, or right-click the
+  installer and choose "Run as administrator"
+
+Problem: API key not working
+Solution: Make sure your key is active at
+  https://openrouter.ai/keys and has credits
+
+Problem: App is slow or unresponsive
+Solution: Check your internet connection.
+  SOLARA needs internet to reach OpenRouter.
+
+
+========================================
+  UNINSTALLING SOLARA
+========================================
+
+1. Open Windows Settings (Windows key + I)
+2. Go to Apps > Installed apps
+3. Find "SOLARA" in the list
+4. Click the three dots and select "Uninstall"
+
+
+========================================
+  NEED HELP?
+========================================
+
+Visit: https://openrouter.ai/docs
+Or check the README.md file that came with
+this installer.
+
+========================================
+  That's it! Enjoy SOLARA.
+========================================
